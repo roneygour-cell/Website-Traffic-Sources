@@ -137,10 +137,3 @@ python website_traffic_analysis.py
 The 8-panel dashboard will be saved as `website_traffic_analysis.png`.
 
 ---
-
-## 🙏 Acknowledgement
-
-This project was completed as **Task 4** of the **Data Analytics Internship** at  
-**CodTech IT Solutions Pvt. Ltd.**  
-Special thanks to mentor **`[MENTOR NAME]`** for guidance and support.
-
